@@ -1,0 +1,57 @@
+nav {
+  display: inline;
+}
+nav > div {
+  text-align: center;
+  font-family: cursive;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: brown;
+  background-color: rgba(240, 187, 138, 0.966);
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  font-family: cursive;
+  color: rgb(250, 160, 86);
+}
+h3 {
+  margin-left: 10px;
+  font-family: cursive;
+  color: rgb(59, 29, 1);
+}
+.title {
+  margin-left: 25px;
+  color: black;
+  font-family: cursive;
+}
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  font-family: "Roboto", sans-serif;
+}
+.links li {
+  display: inline-block;
+}
+.links li a {
+  color: rgb(12, 94, 67);
+}
+.navcolor a {
+  color: rgb(12, 94, 67);
+}
+.mp3 {
+  text-align: center;
+}
